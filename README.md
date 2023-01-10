@@ -1,1 +1,2 @@
 # PCD-QoL
+In recent years, questionnaires were published in English to assess the quality of life of patients with PCD for adults, adolescents aged 13-17, and children aged 6-12 and their caregivers. The aim of this study was to prepare a Polish version of the questionnaires and validate them in specific age groups with the participation of Polish patients with PCD. Patients completed the questionnaires according to their affiliation with one of the groups (as above). Some patients in each group responded twice, two weeks apart.
